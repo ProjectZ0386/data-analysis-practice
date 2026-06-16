@@ -1,1 +1,8 @@
-*.csv 
+Monthly_Avg.csv
+Monthly_EoP.csv
+Quarterly_Avg.csv
+Quarterly_EoP.csv
+Weekly_EoP.csv
+Yearly_Avg.csv
+Yearly_EoP.csv
+GlobalLandTemperaturesByCity.csv
